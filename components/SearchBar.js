@@ -26,7 +26,7 @@ export default function SearchBar({ term, onTermChange, onTermSubmit }) {
 
 const styles = StyleSheet.create({
   backgroundStyle: {
-    backgroundColor: 'lightgray',
+    backgroundColor: '#D21404',
     flexDirection: 'row',
     margin: 10,
     height: 50,
